@@ -1,0 +1,38 @@
+.skills {
+    padding-left: 100px;
+}
+.skills_row {
+        margin-bottom: 50px;
+        padding-top: 80px;
+        padding-left: 120px;
+        text-align: left;
+}
+
+
+.skill {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 140px;
+  
+}
+
+.skills_label {
+    width: 47%;
+    margin-right: 6px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    color: black;
+    text-transform: uppercase;
+    padding-right: 50px;
+}
+
+.skills_items {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 15px;
+  }
+    
+.skills_item {
+    margin-bottom: 6px;
+    font-size: 0.9rem;
+}

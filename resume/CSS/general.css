@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'Lato', Arial;
+    line-height: 1.5;
+    width: 100%;
+}  
+
+
+.section__title {
+    width: 200px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: rgb(38, 72, 210);
+    text-transform: uppercase;
+    margin-bottom: 30px;
+   
+}

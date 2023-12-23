@@ -1,0 +1,16 @@
+.footer {
+    padding: 50px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_copyright {
+    font-weight: 700;
+    width: 200px;
+}
+
+.top, 
+.bottom {
+      display: inline-block;
+}

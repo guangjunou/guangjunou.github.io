@@ -1,0 +1,8 @@
+.resume-link {
+    display: flex;
+    text-align: center;
+    color: blueviolet ;
+    margin-top: 150px;
+    text-decoration: none;
+    text-wrap: nowrap;
+}

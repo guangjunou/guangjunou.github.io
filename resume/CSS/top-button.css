@@ -1,0 +1,18 @@
+#top-button {
+    position: fixed;
+    width: 35px;
+    height: 30px;
+    bottom: 25px;
+    right: 20px;
+    cursor: pointer;
+    display: none;
+}
+
+.text {
+    color: red;
+    margin: 3px;
+}
+
+#top-button:hover {
+    background-color: #555;
+  }

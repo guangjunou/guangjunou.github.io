@@ -1,0 +1,34 @@
+
+.intro__hello,
+.intro__tagline  {
+    font-size: 2.5rem;
+    font-weight: 300;
+    max-width: 900px;
+    padding: 70px 100px;
+}
+
+.emoji_heart {
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+    vertical-align: text-top;
+}
+
+.emoji_pointer {
+    width: 30px;
+    height: 30px;
+    padding-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    vertical-align: text-bottom;
+}
+
+.name {
+    font-weight: 700;
+}
+
+.intro__contact {
+    font-size: 1.25rem;
+    font-weight: 400;
+    padding: 70px 100px;
+    }

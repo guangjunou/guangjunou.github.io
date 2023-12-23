@@ -1,0 +1,34 @@
+.navbar-brand {
+    padding: 0.25rem 0;
+    font-weight: 700;
+    margin-left: 1rem;
+    border-bottom: 0.25rem solid transparent;
+}
+
+.nav-link {
+    padding: 0.25rem 0;
+    font-weight: 700;
+    color: rgba(255,255,255,0.5);
+    margin-left: 1rem;
+    border-bottom: 0.25rem solid transparent;
+}
+
+.nav-link:hover{
+    color: rgba(255,255,255,0.5);
+    border-bottom-color:rgba(255,255,255,0.5);
+}
+
+
+.emoji_email {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+.emoji_phone {
+    border-radius: 70%;
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+}
