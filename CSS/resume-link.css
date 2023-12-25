@@ -5,8 +5,13 @@
     margin-top: 150px;
     text-decoration: none;
     text-wrap: nowrap;
+    letter-spacing: 3px;
 }
 
 .file {
     margin-left: 10px;
+}
+
+.resume-pad {
+    margin-bottom: 70px;
 }
