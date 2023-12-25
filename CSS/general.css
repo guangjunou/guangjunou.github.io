@@ -7,6 +7,11 @@ body {
     width: 100%;
 }  
 
+.section {
+    display: flex;
+    justify-content: center;
+    padding: 60px 100px;
+}
 
 .section__title {
     width: 200px;
@@ -15,5 +20,4 @@ body {
     color: rgb(38, 72, 210);
     text-transform: uppercase;
     margin-bottom: 30px;
-   
 }

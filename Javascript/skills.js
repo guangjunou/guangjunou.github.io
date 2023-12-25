@@ -36,12 +36,12 @@ let skillsHTML = '';
 
 skillsHTML += `
 <div class="row skills_row">
-            <div class="col-lg-2 col-md-2 col-sm-auto">
-              <div class="section__title">Skills</div>
+            <div class="col-l-3 col-md-3 col-sm-auto skills-title">
+              <div class="section__title text-left">Skills</div>
             </div>`
 skills.forEach((skill) => {
     skillsHTML += `
-        <div class="col-lg-3 col-md-3 col-sm-auto skill">
+        <div class="col-lg-2 col-md-2 col-sm-auto skill">
             <div class="row row_skill">
                 <div class="skills_label">${skill.name}</div>
                 <ul class="skills_items text-nowrap">
