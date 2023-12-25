@@ -1,19 +1,21 @@
 #top-button {
     position: fixed;
-    width: 35px;
-    height: 30px;
+    /* width: 35px;
+    height: 30px; */
     bottom: 25px;
-    right: 20px;
+    right: 30px;
+    border: none;
+    background-color: white;
     cursor: pointer;
     display: none;
 }
 
 .text {
     color: red;
-    margin-right: 3px;
-    margin-top: 2px;
+    /* margin-right: 3px;
+    margin-top: 2px; */
 }
 
-#top-button:hover {
-    background-color: #555;
+.text:hover {
+    color: blue;
   }

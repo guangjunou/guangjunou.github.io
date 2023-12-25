@@ -6,3 +6,7 @@
     text-decoration: none;
     text-wrap: nowrap;
 }
+
+.file {
+    margin-left: 10px;
+}
