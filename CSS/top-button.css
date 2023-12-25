@@ -10,7 +10,8 @@
 
 .text {
     color: red;
-    margin: 3px;
+    margin-right: 3px;
+    margin-top: 2px;
 }
 
 #top-button:hover {

@@ -7,10 +7,32 @@
 
 .footer_copyright {
     font-weight: 700;
-    width: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+   
 }
 
 .top, 
 .bottom {
       display: inline-block;
+      text-wrap: nowrap;
+}
+
+.footer_links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+
+.footer_logo {
+    position: relative;
+    display: inline-block;
+    margin-right: 120px;
+}
+
+.footer_email {
+    width: 32px;
+    height: 32px;
 }
