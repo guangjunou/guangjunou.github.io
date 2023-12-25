@@ -31,7 +31,40 @@
     position: relative;
     display: inline-block;
     margin-right: 120px;
+    transition: transform 0.3s ease-in-out;
 }
+
+
+.footer_logo.wave {
+    transform: rotate(-30deg);
+}
+.footer_logo.wave1 {
+    transform: rotate(30deg);
+}
+/* .footer_logo.wave2 {
+    transform: rotateY(50deg);
+} */
+@keyframes wave2 {
+    from {transform: rotate(-15deg);}
+    to {transform: rotate(15deg);}
+}
+.footer_logo.wave2 {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    animation-name: wave2
+}
+
+@keyframes wave3 {
+    from {transform: rotate(-30deg) rotateY(50deg);}
+    to {transform: rotateX(50deg) rotate(30deg);}
+}
+.footer_logo.wave2 {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    animation-name: wave3
+  }
+
+
 
 .footer_email {
     width: 32px;
