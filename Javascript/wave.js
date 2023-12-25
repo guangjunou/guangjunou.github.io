@@ -48,9 +48,9 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener('DOMContentLoaded', function() {
     const logo = document.querySelector('.js-wave3');
     logo.addEventListener('mouseover', function() {
-        logo.classList.add('wave2');
+        logo.classList.add('wave3');
         setTimeout( () => {
-            logo.classList.remove('wave2');
+            logo.classList.remove('wave3');
           }, 1000);
     });
 

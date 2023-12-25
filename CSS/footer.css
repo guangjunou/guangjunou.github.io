@@ -58,7 +58,7 @@
     from {transform: rotate(-30deg) rotateY(50deg);}
     to {transform: rotateX(50deg) rotate(30deg);}
 }
-.footer_logo.wave2 {
+.footer_logo.wave3 {
     animation-duration: 1s;
     animation-fill-mode: both;
     animation-name: wave3
