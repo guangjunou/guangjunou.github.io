@@ -8,6 +8,7 @@
         text-align: left;
     } */
 
-p {
+.text_intro {
     padding-bottom: 20px;
+    font-size: 20px;
 }
